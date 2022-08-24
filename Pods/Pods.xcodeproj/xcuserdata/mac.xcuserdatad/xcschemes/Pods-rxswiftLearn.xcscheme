@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1240"
+   LastUpgradeVersion = "1300"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8F083B4FC4F024723020EEE1E6979DA6"
-               BuildableName = "Pods_RxSwiftLearnTests.framework"
-               BlueprintName = "Pods-RxSwiftLearnTests"
+               BlueprintIdentifier = "293F2F0987AF981D1E8D7BEE58209F77"
+               BuildableName = "Pods_rxswiftLearn.framework"
+               BlueprintName = "Pods-rxswiftLearn"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

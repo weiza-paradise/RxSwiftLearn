@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  RxSwiftLearn
+//  rxswiftLearn
 //
-//  Created by weiza on 2022/8/23.
+//  Created by mac on 2022/8/24.
 //
 
 import UIKit

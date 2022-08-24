@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_RxSwiftLearn : NSObject
+@interface PodsDummy_Pods_rxswiftLearn : NSObject
 @end
-@implementation PodsDummy_Pods_RxSwiftLearn
+@implementation PodsDummy_Pods_rxswiftLearn
 @end
