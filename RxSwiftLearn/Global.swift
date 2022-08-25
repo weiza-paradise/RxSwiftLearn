@@ -8,5 +8,3 @@
 import Foundation
 import RxSwift
 import RxCocoa
-
-var disposeBag = DisposeBag()

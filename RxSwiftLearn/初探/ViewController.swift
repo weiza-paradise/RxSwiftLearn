@@ -16,7 +16,7 @@ class Preson: NSObject {
     var age: String = ""
 }
 
-class ViewController: UIViewController {
+class ViewController: BaseViewController {
     
     let preson = Preson()
     
@@ -31,13 +31,12 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         title = "RxSwift 初探"
         view.backgroundColor = .white
-        
         setUpKVO()
         preson.name = "weiza"
         
         setupClick()
         setupTextField()
-        setupTimer()
+        //setupTimer()
         setupNotification()
         setupGestureRecognizer()
         setupScrollerView()
